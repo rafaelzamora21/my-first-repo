@@ -106,3 +106,7 @@ button::before{
     border: none;
     border-bottom: 1px solid black;
 }
+
+h2{
+    color:white;
+}
